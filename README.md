@@ -1,2 +1,3 @@
-#This is myApp project
-Tis is test
+# CS310 - Softwae Engineering
+## Course project 
+This is a testing project for demo. 
