@@ -4,8 +4,8 @@ public class Student{
     private String st_classs;
 
     public void print(){
-	// TBD
+        System.out.println("Printing Studetn info.");
    }
-    
+
 
 }
